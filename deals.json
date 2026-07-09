@@ -1,6 +1,6 @@
 {
- "generated_at": 1783629050.117125,
- "generated_at_str": "09/07/2026 14:30",
+ "generated_at": 1783632273.0040011,
+ "generated_at_str": "09/07/2026 15:24",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1414,7 +1414,7 @@
    "starts": "2026-07-09T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783629050.117125
+   "first_seen": 1783629055.289823
   },
   {
    "id": "695990",
@@ -1969,7 +1969,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783629050.117125
+   "first_seen": 1783629055.289823
   },
   {
    "id": "702165",
@@ -4121,21 +4121,6 @@
    "name": "Coach 0HC6261BU Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Coach-0HC6261BU-Armazon-Oftalmico/p/704767",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h9a/h1d/471761628299294.jpg",
-   "category": "Optica",
-   "price_old": 3999.0,
-   "price_new": 2999.25,
-   "pct": 25.0,
-   "amount": 999.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "700563",
-   "name": "Hugo HG 1360 Armazón Oftálmico",
-   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Hugo-HG-1360-Armazon-Oftalmico/p/700563",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h50/h34/401637696733214.jpg",
    "category": "Optica",
    "price_old": 3999.0,
    "price_new": 2999.25,
@@ -10549,7 +10534,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783629050.117125
+   "first_seen": 1783629083.4403863
   },
   {
    "id": "1934048",
