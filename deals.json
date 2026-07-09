@@ -1,6 +1,6 @@
 {
- "generated_at": 1783621456.5054483,
- "generated_at_str": "09/07/2026 12:24",
+ "generated_at": 1783629050.117125,
+ "generated_at_str": "09/07/2026 14:30",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1412,9 +1412,9 @@
    "pct": 29.4,
    "amount": 220.0,
    "starts": "2026-07-09T06:00:00.000Z",
-   "ends": "2026-07-31T05:59:59.999Z",
+   "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1783629050.117125
   },
   {
    "id": "695990",
@@ -1957,6 +1957,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "676432",
+   "name": "Carrier, Aire Acondicionado Minisplit Inverter con Wi-Fi, 36,000 btus 220V, Enfriamiento y Calefacción, 17 SEER",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Calentadores/Carrier-Aire-Acondicionado-Minisplit-Inverter-con-Wi-Fi-36000-btus-220V-Enfriamiento-y-Calefaccion-17-SEER/p/676432",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/h91/136271031894046.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 28999.0,
+   "price_new": 20999.0,
+   "pct": 27.6,
+   "amount": 8000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783629050.117125
+  },
+  {
    "id": "702165",
    "name": "Hisense Lavasecadora Eléctrica 16Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Hisense-Lavasecadora-Electrica-16Kg/p/702165",
@@ -2302,21 +2317,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1321497",
-   "name": "Wine Enthusiast Cava de Vinos y Enfriador de Bebidas",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-y-Enfriador-de-Bebidas/p/1321497",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/ha3/262419123109918.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 29999.0,
-   "price_new": 21999.0,
-   "pct": 26.7,
-   "amount": 8000.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "660422",
    "name": "Maytag Secadora de Gas 22Kg con Pedestal",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Maytag-Secadora-de-Gas-22Kg-con-Pedestal/p/660422",
@@ -2328,6 +2328,21 @@
    "amount": 8000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1321497",
+   "name": "Wine Enthusiast Cava de Vinos y Enfriador de Bebidas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-y-Enfriador-de-Bebidas/p/1321497",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4a/ha3/262419123109918.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 29999.0,
+   "price_new": 21999.0,
+   "pct": 26.7,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -2688,21 +2703,6 @@
    "amount": 6000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "696712",
-   "name": "Hisense Congelador Horizontal 18'",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Hisense-Congelador-Horizontal-18/p/696712",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hae/h8e/414733846839326.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 13299.0,
-   "pct": 26.1,
-   "amount": 4700.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -6127,6 +6127,36 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "700286",
+   "name": "Cloe VLE.40166.0GRN.55 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-VLE401660GRN55-Armazon-Oftalmico/p/700286",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/h12/396587068227614.jpg",
+   "category": "Optica",
+   "price_old": 1799.0,
+   "price_new": 1349.25,
+   "pct": 25.0,
+   "amount": 449.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700284",
+   "name": "Cloe VLE.01191.0RED.55 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-VLE011910RED55-Armazon-Oftalmico/p/700284",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h87/h58/396587062788126.jpg",
+   "category": "Optica",
+   "price_old": 1799.0,
+   "price_new": 1349.25,
+   "pct": 25.0,
+   "amount": 449.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "700283",
    "name": "Cloe VLE.01191.0PUR.55 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-VLE011910PUR55-Armazon-Oftalmico/p/700283",
@@ -7672,21 +7702,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "594613",
-   "name": "Lysol Triple Poder Desinfectante Multiusos con Aroma Cítricos 6 l",
-   "url": "https://www.costco.com.mx/Grocery/Grocery/Limpieza/Lysol-Triple-Poder-Desinfectante-Multiusos-con-Aroma-Citricos-6-l/p/594613",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4d/hfd/70366701486110.jpg",
-   "category": "Grocery",
-   "price_old": 199.0,
-   "price_new": 149.25,
-   "pct": 25.0,
-   "amount": 49.75,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "593946",
    "name": "Kirkland Signature Calcio + Vitamina D3 Frasco con 180 Tabletas",
    "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Kirkland-Signature-Calcio-Vitamina-D3-Frasco-con-180-Tabletas/p/593946",
@@ -8092,10 +8107,10 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "686463",
-   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
+   "id": "686134",
+   "name": "GE Profile Refrigerador 27' French Door",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h6a/314760053325854.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
    "price_new": 22999.0,
@@ -8107,10 +8122,25 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "686134",
-   "name": "GE Profile Refrigerador 27' French Door",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/GE-Profile-Refrigerador-27-French-Door/p/686134",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h4b/h6a/314760053325854.jpg",
+   "id": "702769",
+   "name": "TCL Pantalla 85\" Miniled 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-85-Miniled-4K-Fire-TV/p/702769",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h99/449171630260254.jpg",
+   "category": "Electronicos",
+   "price_old": 29999.0,
+   "price_new": 22999.0,
+   "pct": 23.3,
+   "amount": 7000.0,
+   "starts": "2026-07-02T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686463",
+   "name": "GE Centro De Lavado De Gas 23kg / 23kg",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/GE-Centro-De-Lavado-De-Gas-23kg-23kg/p/686463",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0b/h06/366045314285598.jpg",
    "category": "Linea Blanca y Cocina",
    "price_old": 29999.0,
    "price_new": 22999.0,
@@ -8133,21 +8163,6 @@
    "amount": 7000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "702769",
-   "name": "TCL Pantalla 85\" Miniled 4K Fire TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/83-pulgadas-y-Mas/TCL-Pantalla-85-Miniled-4K-Fire-TV/p/702769",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/haf/h99/449171630260254.jpg",
-   "category": "Electronicos",
-   "price_old": 29999.0,
-   "price_new": 22999.0,
-   "pct": 23.3,
-   "amount": 7000.0,
-   "starts": "2026-07-02T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -8842,21 +8857,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1861898",
-   "name": "Thomasville, Tavish, Seccional de Tela de 3 Piezas con Almacenamiento en los Asientos",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Tavish-Seccional-de-Tela-de-3-Piezas-con-Almacenamiento-en-los-Asientos/p/1861898",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/hcd/439315733282846.jpg",
-   "category": "Muebles",
-   "price_old": 37999.0,
-   "price_new": 29999.0,
-   "pct": 21.1,
-   "amount": 8000.0,
-   "starts": "2026-06-15T06:00:00.000Z",
-   "ends": "2026-07-20T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "703985",
    "name": "Samsung Autoview French Door 30' Refrigerador",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Autoview-French-Door-30-Refrigerador/p/703985",
@@ -8868,6 +8868,21 @@
    "amount": 8000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "1861898",
+   "name": "Thomasville, Tavish, Seccional de Tela de 3 Piezas con Almacenamiento en los Asientos",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Thomasville-Tavish-Seccional-de-Tela-de-3-Piezas-con-Almacenamiento-en-los-Asientos/p/1861898",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hf5/hcd/439315733282846.jpg",
+   "category": "Muebles",
+   "price_old": 37999.0,
+   "price_new": 29999.0,
+   "pct": 21.1,
+   "amount": 8000.0,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -9082,21 +9097,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "703466",
-   "name": "Samsung Pantalla 75\" Crystal UHD Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Crystal-UHD-Smart-TV/p/703466",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h48/hde/452879710453790.jpg",
-   "category": "Electronicos",
-   "price_old": 16999.0,
-   "price_new": 13499.0,
-   "pct": 20.6,
-   "amount": 3500.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "678301",
    "name": "Whirlpool Lavadora 19Kg Top Load",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Whirlpool-Lavadora-19Kg-Top-Load/p/678301",
@@ -9108,6 +9108,21 @@
    "amount": 3500.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703466",
+   "name": "Samsung Pantalla 75\" Crystal UHD Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-75-Crystal-UHD-Smart-TV/p/703466",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h48/hde/452879710453790.jpg",
+   "category": "Electronicos",
+   "price_old": 16999.0,
+   "price_new": 13499.0,
+   "pct": 20.6,
+   "amount": 3500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -9412,21 +9427,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "683208",
-   "name": "Carrier, Aire Acondicionado Minisplit, Solo Enfriamiento, 12,000 BTU, 110V, Gas R32, con Wi-Fi, 20 SEER",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Solo-Enfriamiento-12000-BTU-110V-Gas-R32-con-Wi-Fi-20-SEER/p/683208",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfc/h60/222290702958622.jpg",
-   "category": "Electrodomesticos",
-   "price_old": 9999.0,
-   "price_new": 7999.0,
-   "pct": 20.0,
-   "amount": 2000.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "1850920",
    "name": "Mirador, Caja de Almacenamiento de Aluminio con Capacidad de 776L",
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Almacenaje-y-Cobertizos-para-Jardin/Cajas-de-Almacenamiento/Mirador-Caja-de-Almacenamiento-de-Aluminio-con-Capacidad-de-776L/p/1850920",
@@ -9482,6 +9482,21 @@
    "pct": 20.0,
    "amount": 2000.0,
    "starts": "2026-07-07T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "683208",
+   "name": "Carrier, Aire Acondicionado Minisplit, Solo Enfriamiento, 12,000 BTU, 110V, Gas R32, con Wi-Fi, 20 SEER",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Solo-Enfriamiento-12000-BTU-110V-Gas-R32-con-Wi-Fi-20-SEER/p/683208",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfc/h60/222290702958622.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
@@ -9697,11 +9712,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "703476",
-   "name": "Samsung Pantalla 55\" Miniled 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-Miniled-4K-Smart-TV/p/703476",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/hac/452879764258846.jpg",
-   "category": "Electronicos",
+   "id": "687077",
+   "name": "Sealy, Lisboa, Colchón Queen Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
+   "category": "c",
    "price_old": 12999.0,
    "price_new": 10499.0,
    "pct": 19.2,
@@ -9712,11 +9727,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "687077",
-   "name": "Sealy, Lisboa, Colchón Queen Size",
-   "url": "https://www.costco.com.mx/c/Sealy-Lisboa-Colchon-Queen-Size/p/687077",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h8c/256579216408606.jpg",
-   "category": "c",
+   "id": "703476",
+   "name": "Samsung Pantalla 55\" Miniled 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-Miniled-4K-Smart-TV/p/703476",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/hac/452879764258846.jpg",
+   "category": "Electronicos",
    "price_old": 12999.0,
    "price_new": 10499.0,
    "pct": 19.2,
@@ -10267,11 +10282,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "683209",
-   "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 12,000 BTU, 110V, Gas R32, con Wi-Fi",
-   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-12000-BTU-110V-Gas-R32-con-Wi-Fi/p/683209",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h66/222290703122462.jpg",
-   "category": "Electrodomesticos",
+   "id": "702849",
+   "name": "Samsung Pantalla 55\" Crystal UHD Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-Crystal-UHD-Smart-TV/p/702849",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha3/h86/452879660908574.jpg",
+   "category": "Electronicos",
    "price_old": 10999.0,
    "price_new": 8999.0,
    "pct": 18.2,
@@ -10282,11 +10297,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "702849",
-   "name": "Samsung Pantalla 55\" Crystal UHD Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/Samsung-Pantalla-55-Crystal-UHD-Smart-TV/p/702849",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha3/h86/452879660908574.jpg",
-   "category": "Electronicos",
+   "id": "683209",
+   "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 12,000 BTU, 110V, Gas R32, con Wi-Fi",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-12000-BTU-110V-Gas-R32-con-Wi-Fi/p/683209",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h66/222290703122462.jpg",
+   "category": "Electrodomesticos",
    "price_old": 10999.0,
    "price_new": 8999.0,
    "pct": 18.2,
@@ -10522,6 +10537,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "702957",
+   "name": "HP 15-fd0263la Laptop 15.6\" Full HD Intel Core i5 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/HP-15-fd0263la-Laptop-156-Full-HD-Intel-Core-i5-16GB-1TB-SSD/p/702957",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2b/he2/450975497977886.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 16999.0,
+   "price_new": 13999.0,
+   "pct": 17.6,
+   "amount": 3000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783629050.117125
+  },
+  {
    "id": "1934048",
    "name": "Sunvilla, Silla mecedora",
    "url": "https://www.costco.com.mx/Muebles/Sillas/Sillas-y-Bancas-para-Exterior/Sunvilla-Silla-mecedora/p/1934048",
@@ -10717,21 +10747,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "703976",
-   "name": "Hisense Pantalla 75\" Hi-QLED 4K Canvas Google TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Hi-QLED-4K-Canvas-Google-TV/p/703976",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/hc9/468632438865950.jpg",
-   "category": "Electronicos",
-   "price_old": 35999.0,
-   "price_new": 29999.0,
-   "pct": 16.7,
-   "amount": 6000.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "662673",
    "name": "Samsung Refrigerador 22' Family Hub",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/Samsung-Refrigerador-22-Family-Hub/p/662673",
@@ -10743,6 +10758,21 @@
    "amount": 6000.0,
    "starts": "2026-06-29T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703976",
+   "name": "Hisense Pantalla 75\" Hi-QLED 4K Canvas Google TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Hisense-Pantalla-75-Hi-QLED-4K-Canvas-Google-TV/p/703976",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd8/hc9/468632438865950.jpg",
+   "category": "Electronicos",
+   "price_old": 35999.0,
+   "price_new": 29999.0,
+   "pct": 16.7,
+   "amount": 6000.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -10807,11 +10837,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "1872188",
-   "name": "Kidkraft Centro de Juegos Blue Ridge",
-   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Kidkraft-Centro-de-Juegos-Blue-Ridge/p/1872188",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/hce/404262788366366.jpg",
-   "category": "Juguetes Regalos y Certificados",
+   "id": "704300",
+   "name": "Homelegance, Driggs, Sofá Cama Ajustable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Homelegance-Driggs-Sofa-Cama-Ajustable/p/704300",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/he2/435741541531678.jpg",
+   "category": "Muebles",
    "price_old": 17999.0,
    "price_new": 14999.0,
    "pct": 16.7,
@@ -10822,11 +10852,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "704300",
-   "name": "Homelegance, Driggs, Sofá Cama Ajustable",
-   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Homelegance-Driggs-Sofa-Cama-Ajustable/p/704300",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h94/he2/435741541531678.jpg",
-   "category": "Muebles",
+   "id": "1872188",
+   "name": "Kidkraft Centro de Juegos Blue Ridge",
+   "url": "https://www.costco.com.mx/Juguetes-Regalos-y-Certificados/Juegos-al-Aire-Libre/Centros-de-Juego/Kidkraft-Centro-de-Juegos-Blue-Ridge/p/1872188",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h77/hce/404262788366366.jpg",
+   "category": "Juguetes Regalos y Certificados",
    "price_old": 17999.0,
    "price_new": 14999.0,
    "pct": 16.7,
@@ -11692,11 +11722,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "693893",
-   "name": "Vino Tinto Chateau Mouton Rothschild 2022 750 ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Mouton-Rothschild-2022-750-ml/p/693893",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h76/h54/380725829468190.jpg",
-   "category": "Vinos",
+   "id": "702323",
+   "name": "Maxi Cosi Carriola Fame",
+   "url": "https://www.costco.com.mx/Todo-para-el-Bebe/Carriolas-y-Sillas-para-Bebe/Carriolas/Maxi-Cosi-Carriola-Fame/p/702323",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/h75/435741529014302.jpg",
+   "category": "Todo para el Bebe",
    "price_old": 19999.0,
    "price_new": 16999.0,
    "pct": 15.0,
@@ -11707,11 +11737,11 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "702323",
-   "name": "Maxi Cosi Carriola Fame",
-   "url": "https://www.costco.com.mx/Todo-para-el-Bebe/Carriolas-y-Sillas-para-Bebe/Carriolas/Maxi-Cosi-Carriola-Fame/p/702323",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/h75/435741529014302.jpg",
-   "category": "Todo para el Bebe",
+   "id": "693893",
+   "name": "Vino Tinto Chateau Mouton Rothschild 2022 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Mouton-Rothschild-2022-750-ml/p/693893",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h76/h54/380725829468190.jpg",
+   "category": "Vinos",
    "price_old": 19999.0,
    "price_new": 16999.0,
    "pct": 15.0,
@@ -12472,10 +12502,10 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "693787",
-   "name": "Vino Tinto Chateau Lafite 2022 750 ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Lafite-2022-750-ml/p/693787",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/haa/380725825536030.jpg",
+   "id": "693906",
+   "name": "Vino Tinto Chateau Ausone 2022 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Ausone-2022-750-ml/p/693906",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h39/379124058882078.jpg",
    "category": "Vinos",
    "price_old": 22999.0,
    "price_new": 19999.0,
@@ -12487,10 +12517,10 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "693906",
-   "name": "Vino Tinto Chateau Ausone 2022 750 ml",
-   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Ausone-2022-750-ml/p/693906",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h06/h39/379124058882078.jpg",
+   "id": "693787",
+   "name": "Vino Tinto Chateau Lafite 2022 750 ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Lafite-2022-750-ml/p/693787",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/haa/380725825536030.jpg",
    "category": "Vinos",
    "price_old": 22999.0,
    "price_new": 19999.0,
@@ -13642,21 +13672,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "700993",
-   "name": "Samsung Pantalla 77\" OLED 4K Smart TV",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-77-OLED-4K-Smart-TV/p/700993",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfb/h81/485231357624350.jpg",
-   "category": "Electronicos",
-   "price_old": 26999.0,
-   "price_new": 24999.0,
-   "pct": 7.4,
-   "amount": 2000.0,
-   "starts": "2026-07-08T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "703749",
    "name": "Samsung Pantalla 65\" QLED The Frame 4K Smart TV + Marco",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-65-QLED-The-Frame-4K-Smart-TV-Marco/p/703749",
@@ -13667,6 +13682,21 @@
    "pct": 7.4,
    "amount": 2000.0,
    "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "700993",
+   "name": "Samsung Pantalla 77\" OLED 4K Smart TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/Samsung-Pantalla-77-OLED-4K-Smart-TV/p/700993",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfb/h81/485231357624350.jpg",
+   "category": "Electronicos",
+   "price_old": 26999.0,
+   "price_new": 24999.0,
+   "pct": 7.4,
+   "amount": 2000.0,
+   "starts": "2026-07-08T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
