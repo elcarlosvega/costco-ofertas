@@ -1,6 +1,6 @@
 {
- "generated_at": 1783636125.1997137,
- "generated_at_str": "09/07/2026 16:28",
+ "generated_at": 1783639395.4198585,
+ "generated_at_str": "09/07/2026 17:23",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -1729,7 +1729,7 @@
    "starts": "2026-07-09T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783636125.1997137
+   "first_seen": 1783636130.0769348
   },
   {
    "id": "1784128",
@@ -1942,6 +1942,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "634122",
+   "name": "Carlos V Chocolate 27 pzas de 18 g",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Dulces-y-Chocolates/Carlos-V-Chocolate-27-pzas-de-18-g/p/634122",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hec/h46/485803702255646.jpg",
+   "category": "Grocery",
+   "price_old": 289.0,
+   "price_new": 209.0,
+   "pct": 27.7,
+   "amount": 80.0,
+   "starts": "2026-07-04T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "676432",
    "name": "Carrier, Aire Acondicionado Minisplit Inverter con Wi-Fi, 36,000 btus 220V, Enfriamiento y Calefacción, 17 SEER",
    "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Calentadores/Carrier-Aire-Acondicionado-Minisplit-Inverter-con-Wi-Fi-36000-btus-220V-Enfriamiento-y-Calefaccion-17-SEER/p/676432",
@@ -1969,7 +1984,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-07-21T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783636125.1997137
+   "first_seen": 1783636130.0769348
   },
   {
    "id": "690476",
@@ -2764,7 +2779,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783636125.1997137
+   "first_seen": 1783636130.0769348
   },
   {
    "id": "690532",
@@ -5902,6 +5917,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "699488",
+   "name": "Steve Madden VSD.30860.0SLV.56 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Steve-Madden-VSD308600SLV56-Armazon-Oftalmico/p/699488",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3a/h04/311904470827038.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "751106",
    "name": "Adidas Sport SP5119@54091 Armazón Oftálmico + Tote Bag Mexico City + Gorra México Tricolor.",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Adidas-Sport-SP511954091-Armazon-Oftalmico-Tote-Bag-Mexico-City-Gorra-Mexico-Tricolor/p/751106",
@@ -7076,6 +7106,21 @@
    "name": "Just Colágeno Hidrolizado Frasco con 240 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/Just-Colageno-Hidrolizado-Frasco-con-240-Tabletas/p/694280",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/ha3/366219907694622.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 599.0,
+   "price_new": 449.25,
+   "pct": 25.0,
+   "amount": 149.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "661925",
+   "name": "L'Oréal Revitalift Kit de Cuidado Facial 2 pzas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/LOreal-Revitalift-Kit-de-Cuidado-Facial-2-pzas/p/661925",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h4e/h92/64018874302494.jpg",
    "category": "Salud y Belleza",
    "price_old": 599.0,
    "price_new": 449.25,
@@ -9367,6 +9412,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "683208",
+   "name": "Carrier, Aire Acondicionado Minisplit, Solo Enfriamiento, 12,000 BTU, 110V, Gas R32, con Wi-Fi, 20 SEER",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Solo-Enfriamiento-12000-BTU-110V-Gas-R32-con-Wi-Fi-20-SEER/p/683208",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfc/h60/222290702958622.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 9999.0,
+   "price_new": 7999.0,
+   "pct": 20.0,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "678009",
    "name": "Vino Tinto Chateau Palmer 2012 750 ml",
    "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Tinto/Vino-Tinto-Chateau-Palmer-2012-750-ml/p/678009",
@@ -10162,6 +10222,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "683209",
+   "name": "Carrier, Aire Acondicionado Minisplit, Enfriamiento y Calefacción, 12,000 BTU, 110V, Gas R32, con Wi-Fi",
+   "url": "https://www.costco.com.mx/Electrodomesticos/Climatizacion/Aires-Acondicionados/Carrier-Aire-Acondicionado-Minisplit-Enfriamiento-y-Calefaccion-12000-BTU-110V-Gas-R32-con-Wi-Fi/p/683209",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h1a/h66/222290703122462.jpg",
+   "category": "Electrodomesticos",
+   "price_old": 10999.0,
+   "price_new": 8999.0,
+   "pct": 18.2,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "680744",
    "name": "Luuna Cloud, Colchón Queen, Memory Foam",
    "url": "https://www.costco.com.mx/c/Luuna-Cloud-Colchon-Queen-Memory-Foam/p/680744",
@@ -10219,7 +10294,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-11T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783636125.1997137
+   "first_seen": 1783636130.0769348
   },
   {
    "id": "697594",
@@ -10368,21 +10443,6 @@
    "amount": 3000.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-06T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "659795",
-   "name": "Teka Estufa de piso de gas con 6 quemadores de 76cm",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Teka-Estufa-de-piso-de-gas-con-6-quemadores-de-76cm/p/659795",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/ha8/h61/365038770487326.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 16999.0,
-   "price_new": 13999.0,
-   "pct": 17.6,
-   "amount": 3000.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
@@ -13102,6 +13162,51 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "686221",
+   "name": "Muebles Liz, Sicilia, Seccional De 2 Piezas Beige",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Sicilia-Seccional-De-2-Piezas-Beige/p/686221",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2e/h46/257676560236574.jpg",
+   "category": "Muebles",
+   "price_old": 34999.0,
+   "price_new": 31499.0,
+   "pct": 10.0,
+   "amount": 3500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686220",
+   "name": "Muebles Liz, Rodius, Sala Modular De 3 Piezas Gris",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Rodius-Sala-Modular-De-3-Piezas-Gris/p/686220",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h8b/hc9/257676554633246.jpg",
+   "category": "Muebles",
+   "price_old": 34999.0,
+   "price_new": 31499.0,
+   "pct": 10.0,
+   "amount": 3500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686217",
+   "name": "Muebles Liz, Larix, Seccional De 2 Piezas Gris Obscuro",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/Muebles-Liz-Larix-Seccional-De-2-Piezas-Gris-Obscuro/p/686217",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hab/h31/257676548309022.jpg",
+   "category": "Muebles",
+   "price_old": 34999.0,
+   "price_new": 31499.0,
+   "pct": 10.0,
+   "amount": 3500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "704493",
    "name": "Samsung Proyector FHD 40 - 100\" The Premier",
    "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/Samsung-Proyector-FHD-40-100-The-Premier/p/704493",
@@ -13128,6 +13233,21 @@
    "amount": 3000.0,
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "686218",
+   "name": "Muebles Liz, Parma, Sala Modular de 2 Piezas, Gris",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sillones/Muebles-Liz-Parma-Sala-Modular-de-2-Piezas-Gris/p/686218",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/haf/257676551454750.jpg",
+   "category": "Muebles",
+   "price_old": 26999.0,
+   "price_new": 24299.0,
+   "pct": 10.0,
+   "amount": 2700.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
   },
