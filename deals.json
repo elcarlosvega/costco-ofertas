@@ -1,6 +1,6 @@
 {
- "generated_at": 1783610382.473712,
- "generated_at_str": "09/07/2026 09:19",
+ "generated_at": 1783613969.4147418,
+ "generated_at_str": "09/07/2026 10:19",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -907,6 +907,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "593655",
+   "name": "Champagne Dom Pérignon Blanc Vintage 750ml",
+   "url": "https://www.costco.com.mx/Vinos/Vinos/Vino-Espumoso-y-Champagne/Champagne-Dom-Perignon-Blanc-Vintage-750ml/p/593655",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6e/h09/368805369217054.jpg",
+   "category": "Vinos",
+   "price_old": 5999.0,
+   "price_new": 4199.3,
+   "pct": 30.0,
+   "amount": 1799.7,
+   "starts": "2026-07-09T06:00:00.000Z",
+   "ends": "2026-07-28T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783613969.4147418
+  },
+  {
    "id": "520750",
    "name": "Cognac Martell Cordon Bleu 700ml",
    "url": "https://www.costco.com.mx/Licores-y-Gourmet/Licores/Brandy-y-Cognac/Cognac-Martell-Cordon-Bleu-700ml/p/520750",
@@ -1217,9 +1232,9 @@
    "pct": 29.9,
    "amount": 170.0,
    "starts": "2026-07-09T06:00:00.000Z",
-   "ends": "2026-07-31T05:59:59.999Z",
+   "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1783613969.4147418
   },
   {
    "id": "679788",
@@ -13507,6 +13522,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "653127",
+   "name": "Sealy, Limited, Colchón y Box Queen Size",
+   "url": "https://www.costco.com.mx/c/Sealy-Limited-Colchon-y-Box-Queen-Size/p/653127",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h46/h4b/69509734137886.jpg",
+   "category": "c",
+   "price_old": 20999.0,
+   "price_new": 18999.0,
+   "pct": 9.5,
+   "amount": 2000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "697970",
    "name": "Sealy, Embody Soft Red, Colchón y Box Individual",
    "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Individual/Sealy-Embody-Soft-Red-Colchon-y-Box-Individual/p/697970",
@@ -13515,6 +13545,21 @@
    "price_old": 16999.0,
    "price_new": 15499.0,
    "pct": 8.8,
+   "amount": 1500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "653126",
+   "name": "Sealy, Limited, Colchón y Box Matrimonial",
+   "url": "https://www.costco.com.mx/c/Sealy-Limited-Colchon-y-Box-Matrimonial/p/653126",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hd0/h1f/69509732204574.jpg",
+   "category": "c",
+   "price_old": 17499.0,
+   "price_new": 15999.0,
+   "pct": 8.6,
    "amount": 1500.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
