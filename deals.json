@@ -1,6 +1,6 @@
 {
- "generated_at": 1783696727.898831,
- "generated_at_str": "10/07/2026 09:18",
+ "generated_at": 1783703941.4960244,
+ "generated_at_str": "10/07/2026 11:19",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -604,7 +604,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-08-03T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696732.869078
   },
   {
    "id": "652706",
@@ -844,7 +844,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696732.869078
   },
   {
    "id": "1942257",
@@ -934,7 +934,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696732.869078
   },
   {
    "id": "593655",
@@ -946,7 +946,7 @@
    "price_new": 4199.3,
    "pct": 30.0,
    "amount": 1799.7,
-   "starts": "2026-07-09T06:00:00.000Z",
+   "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-28T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783613974.9457006
@@ -1369,7 +1369,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696756.3774838
   },
   {
    "id": "696505",
@@ -1384,7 +1384,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696756.3774838
   },
   {
    "id": "703973",
@@ -1429,7 +1429,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696756.3774838
   },
   {
    "id": "1781121",
@@ -1504,7 +1504,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696756.3774838
   },
   {
    "id": "697199",
@@ -1519,7 +1519,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696784.84036
   },
   {
    "id": "697174",
@@ -1609,7 +1609,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696784.84036
   },
   {
    "id": "678651",
@@ -1774,7 +1774,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696784.84036
   },
   {
    "id": "696503",
@@ -1789,7 +1789,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783696784.84036
   },
   {
    "id": "1740698",
@@ -1804,7 +1804,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "1807251",
@@ -2074,7 +2074,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "696498",
@@ -2089,7 +2089,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "673524",
@@ -2689,7 +2689,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-24T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "669617",
@@ -2854,7 +2854,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-27T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "687099",
@@ -5992,6 +5992,66 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "703550",
+   "name": "Cloe CLE.61412.0RED.54 Armazón Oftálmico + Clip Solar Polarizado",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE614120RED54-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703550",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h44/hf1/452433282891806.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703549",
+   "name": "Cloe CLE.61404.0GRN.55 Armazón Oftálmico + Clip Solar Polarizado",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE614040GRN55-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703549",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h6f/h51/452433279254558.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703547",
+   "name": "Cloe CLE.61396.0BRN.55 Armazón Oftálmico + Clip Solar Polarizado",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE613960BRN55-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703547",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h74/h0d/452433269293086.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "703545",
+   "name": "Cloe CLE.10038.0PNK.55 Armazón Oftálmico + Clip Solar Polarizado",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE100380PNK55-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703545",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h98/h49/452433228562462.jpg",
+   "category": "Optica",
+   "price_old": 1999.0,
+   "price_new": 1499.25,
+   "pct": 25.0,
+   "amount": 499.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "703544",
    "name": "Cloe CLE.10038.0CMP.55 Armazón Oftálmico + Clip Solar Polarizado",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Cloe-CLE100380CMP55-Armazon-Oftalmico-Clip-Solar-Polarizado/p/703544",
@@ -6455,6 +6515,21 @@
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "695711",
+   "name": "Nourella 60 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-60-Tabletas/p/695711",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h0d/hc9/382305852227614.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1549.0,
+   "price_new": 1161.75,
+   "pct": 25.0,
+   "amount": 387.25,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783703941.4960244
   },
   {
    "id": "695712",
@@ -7264,7 +7339,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-25T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "682679",
@@ -7532,6 +7607,21 @@
    "pct": 25.0,
    "amount": 119.75,
    "starts": "2026-07-09T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "687993",
+   "name": "Protec Mascarilla KN95 Caja con 50 Piezas",
+   "url": "https://www.costco.com.mx/Grocery/Grocery/Farmacia/Protec-Mascarilla-KN95-Caja-con-50-Piezas/p/687993",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/he6/ha1/260888248582174.jpg",
+   "category": "Grocery",
+   "price_old": 479.0,
+   "price_new": 359.25,
+   "pct": 25.0,
+   "amount": 119.75,
+   "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607378.2607572
@@ -7906,10 +7996,10 @@
    "price_new": 171.75,
    "pct": 25.0,
    "amount": 57.25,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
+   "starts": "2026-07-10T06:00:00.000Z",
+   "ends": "2026-07-14T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783607378.2607572
+   "first_seen": 1783703941.4960244
   },
   {
    "id": "561998",
@@ -8119,7 +8209,7 @@
    "starts": "2026-07-01T06:00:00.000Z",
    "ends": "2026-08-01T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "703478",
@@ -9049,7 +9139,7 @@
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "676485",
@@ -9574,7 +9664,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-20T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "1713577",
@@ -11257,6 +11347,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "687774",
+   "name": "Montbrook Home, Albertson, Sillón Reclinable",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Albertson-Sillon-Reclinable/p/687774",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h9c/h53/261719125753886.jpg",
+   "category": "Muebles",
+   "price_old": 8999.0,
+   "price_new": 7499.0,
+   "pct": 16.7,
+   "amount": 1500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "687777",
    "name": "Montbrook Home, Topeka, Sillón Reclinable",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Reclinables/Montbrook-Home-Topeka-Sillon-Reclinable/p/687777",
@@ -11816,6 +11921,21 @@
    "name": "Montbrook Home, Mackenzie, Sofá Cama Seccional con Mesa Desplegable y Almacenamiento",
    "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Montbrook-Home-Mackenzie-Sofa-Cama-Seccional-con-Mesa-Desplegable-y-Almacenamiento/p/687768",
    "img": "https://www.costco.com.mx/medias/sys_master/products/h69/h5b/261719108911134.jpg",
+   "category": "Muebles",
+   "price_old": 27999.0,
+   "price_new": 23799.0,
+   "pct": 15.0,
+   "amount": 4200.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "687769",
+   "name": "Montbrook Home, Mackenzie, Sofá Cama Seccional con Mesa Desplegable y Almacenamiento",
+   "url": "https://www.costco.com.mx/Muebles/Sofas-y-Sillones/Sofa-Cama/Montbrook-Home-Mackenzie-Sofa-Cama-Seccional-con-Mesa-Desplegable-y-Almacenamiento/p/687769",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h2d/hf2/262419045056542.jpg",
    "category": "Muebles",
    "price_old": 27999.0,
    "price_new": 23799.0,
@@ -13834,7 +13954,7 @@
    "starts": "2026-07-10T06:00:00.000Z",
    "ends": "2026-07-18T05:59:59.999Z",
    "in_stock": true,
-   "first_seen": 1783696727.898831
+   "first_seen": 1783700236.6629386
   },
   {
    "id": "700993",
