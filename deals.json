@@ -1,6 +1,6 @@
 {
- "generated_at": 1783645100.9572313,
- "generated_at_str": "09/07/2026 18:58",
+ "generated_at": 1783646333.4869914,
+ "generated_at_str": "09/07/2026 19:18",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -5362,6 +5362,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "699385",
+   "name": "Michael Kors 0MK4035400551 Armazón Oftálmico",
+   "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Michael-Kors-0MK4035400551-Armazon-Oftalmico/p/699385",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h86/h11/333952453869598.jpg",
+   "category": "Optica",
+   "price_old": 2599.0,
+   "price_new": 1949.25,
+   "pct": 25.0,
+   "amount": 649.75,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "704201",
    "name": "CAT CPO 3502 005 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/CAT-CPO-3502-005-Armazon-Oftalmico/p/704201",
@@ -9502,21 +9517,6 @@
    "first_seen": 1783607378.2607572
   },
   {
-   "id": "695726",
-   "name": "DELL Alienware Gaming NB M16 R2 Laptop 16\" Quad HD Intel Core Ultra 7 16GB 1TB SSD",
-   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-NB-M16-R2-Laptop-16-Quad-HD-Intel-Core-Ultra-7-16GB-1TB-SSD/p/695726",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/h79/438163989200926.jpg",
-   "category": "Computadoras y Tablets",
-   "price_old": 48999.0,
-   "price_new": 39499.0,
-   "pct": 19.4,
-   "amount": 9500.0,
-   "starts": "2026-07-01T06:00:00.000Z",
-   "ends": "2026-08-01T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
    "id": "692489",
    "name": "Samsung Combo de Lavado de Gas 28/24 Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-2824-Kg/p/692489",
@@ -13156,21 +13156,6 @@
    "price_new": 31499.0,
    "pct": 10.0,
    "amount": 3500.0,
-   "starts": "2026-07-06T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
-  },
-  {
-   "id": "704493",
-   "name": "Samsung Proyector FHD 40 - 100\" The Premier",
-   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/Samsung-Proyector-FHD-40-100-The-Premier/p/704493",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/hd3/467713393950750.jpg",
-   "category": "Electronicos",
-   "price_old": 29999.0,
-   "price_new": 26999.0,
-   "pct": 10.0,
-   "amount": 3000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
