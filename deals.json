@@ -1,6 +1,6 @@
 {
- "generated_at": 1783646333.4869914,
- "generated_at_str": "09/07/2026 19:18",
+ "generated_at": 1783649937.7957451,
+ "generated_at_str": "09/07/2026 20:18",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -9517,6 +9517,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "695726",
+   "name": "DELL Alienware Gaming NB M16 R2 Laptop 16\" Quad HD Intel Core Ultra 7 16GB 1TB SSD",
+   "url": "https://www.costco.com.mx/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/DELL-Alienware-Gaming-NB-M16-R2-Laptop-16-Quad-HD-Intel-Core-Ultra-7-16GB-1TB-SSD/p/695726",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h93/h79/438163989200926.jpg",
+   "category": "Computadoras y Tablets",
+   "price_old": 48999.0,
+   "price_new": 39499.0,
+   "pct": 19.4,
+   "amount": 9500.0,
+   "starts": "2026-07-01T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "692489",
    "name": "Samsung Combo de Lavado de Gas 28/24 Kg",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Combo-de-Lavado-de-Gas-2824-Kg/p/692489",
@@ -12112,6 +12127,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "668516",
+   "name": "Tempur One + Box Matrimonial",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Matrimonial/Tempur-One-Box-Matrimonial/p/668516",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h3e/h3d/83348118863902.jpg",
+   "category": "Muebles",
+   "price_old": 43999.0,
+   "price_new": 37999.0,
+   "pct": 13.6,
+   "amount": 6000.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "521809",
    "name": "Sealy, Cleveland, Colchón Matrimonial",
    "url": "https://www.costco.com.mx/c/Sealy-Cleveland-Colchon-Matrimonial/p/521809",
@@ -12601,6 +12631,21 @@
    "price_new": 29799.0,
    "pct": 12.4,
    "amount": 4200.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "668515",
+   "name": "Tempur One + Box Individual",
+   "url": "https://www.costco.com.mx/Muebles/Colchones-y-Box/Individual/Tempur-One-Box-Individual/p/668515",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hc6/h5b/83348114341918.jpg",
+   "category": "Muebles",
+   "price_old": 32999.0,
+   "price_new": 28999.0,
+   "pct": 12.1,
+   "amount": 4000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
@@ -13156,6 +13201,21 @@
    "price_new": 31499.0,
    "pct": 10.0,
    "amount": 3500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "704493",
+   "name": "Samsung Proyector FHD 40 - 100\" The Premier",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/Samsung-Proyector-FHD-40-100-The-Premier/p/704493",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/hfa/hd3/467713393950750.jpg",
+   "category": "Electronicos",
+   "price_old": 29999.0,
+   "price_new": 26999.0,
+   "pct": 10.0,
+   "amount": 3000.0,
    "starts": "2026-07-06T06:00:00.000Z",
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
