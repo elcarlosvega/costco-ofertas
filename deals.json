@@ -1,6 +1,6 @@
 {
- "generated_at": 1783653531.02533,
- "generated_at_str": "09/07/2026 21:18",
+ "generated_at": 1783657117.6888237,
+ "generated_at_str": "09/07/2026 22:18",
  "thresholds": {
   "min_pct": 25.0,
   "min_amount": 1500.0
@@ -395,21 +395,6 @@
    "ends": "2026-07-13T05:59:59.999Z",
    "in_stock": true,
    "first_seen": 1783607348.7565374
-  },
-  {
-   "id": "697096",
-   "name": "Samsung Lavasecadora 13kg",
-   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/Samsung-Lavasecadora-13kg/p/697096",
-   "img": "https://www.costco.com.mx/medias/sys_master/products/h83/h92/452706853781534.jpg",
-   "category": "Linea Blanca y Cocina",
-   "price_old": 17999.0,
-   "price_new": 12499.0,
-   "pct": 30.6,
-   "amount": 5500.0,
-   "starts": "2026-06-29T06:00:00.000Z",
-   "ends": "2026-07-13T05:59:59.999Z",
-   "in_stock": true,
-   "first_seen": 1783607378.2607572
   },
   {
    "id": "681426",
@@ -2947,6 +2932,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "704455",
+   "name": "TCL Pantalla 75\" Miniled 4K Fire TV",
+   "url": "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/65-a-75-pulgadas/TCL-Pantalla-75-Miniled-4K-Fire-TV/p/704455",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h56/h02/467364161454110.jpg",
+   "category": "Electronicos",
+   "price_old": 23499.0,
+   "price_new": 17499.0,
+   "pct": 25.5,
+   "amount": 6000.0,
+   "starts": "2026-07-02T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "679565",
    "name": "Whirlpool Campana de Pared 80cm",
    "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas/Whirlpool-Campana-de-Pared-80cm/p/679565",
@@ -5167,6 +5167,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "668409",
+   "name": "Nourella Kit Crema Tubo 30 mL + Caja Con 60 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/Nourella-Kit-Crema-Tubo-30-mL-Caja-Con-60-Tabletas/p/668409",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/ha0/h26/207590264176670.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 2729.0,
+   "price_new": 2046.75,
+   "pct": 25.0,
+   "amount": 682.25,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "750209",
    "name": "Michael Kors 0MK4127 Armazón Oftálmico",
    "url": "https://www.costco.com.mx/Optica/Optica/Armazones-Oftalmicos/Michael-Kors-0MK4127-Armazon-Oftalmico/p/750209",
@@ -6191,6 +6206,21 @@
    "name": "Nourkrin woman 60 Tabletas",
    "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-woman-60-Tabletas/p/666701",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hc9/hb0/274432289374238.jpg",
+   "category": "Salud y Belleza",
+   "price_old": 1699.0,
+   "price_new": 1274.25,
+   "pct": 25.0,
+   "amount": 424.75,
+   "starts": "2026-06-15T06:00:00.000Z",
+   "ends": "2026-07-20T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "666703",
+   "name": "Nourkrin Man 60 Tabletas",
+   "url": "https://www.costco.com.mx/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/Nourkrin-Man-60-Tabletas/p/666703",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h81/h53/309121597308958.jpg",
    "category": "Salud y Belleza",
    "price_old": 1699.0,
    "price_new": 1274.25,
@@ -8452,6 +8482,21 @@
    "first_seen": 1783607378.2607572
   },
   {
+   "id": "694896",
+   "name": "Wine Enthusiast Cava de Vinos 145 Botellas",
+   "url": "https://www.costco.com.mx/Linea-Blanca-y-Cocina/Linea-Blanca/Cavas-y-Enfriadores/Wine-Enthusiast-Cava-de-Vinos-145-Botellas/p/694896",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h5a/hb5/421059779559454.jpg",
+   "category": "Linea Blanca y Cocina",
+   "price_old": 36999.0,
+   "price_new": 28999.0,
+   "pct": 21.6,
+   "amount": 8000.0,
+   "starts": "2026-06-29T06:00:00.000Z",
+   "ends": "2026-08-01T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
    "id": "697098",
    "name": "Samsung Secadora 24kg",
    "url": "https://www.costco.com.mx/c/Samsung-Secadora-24kg/p/697098",
@@ -8622,6 +8667,21 @@
    "url": "https://www.costco.com.mx/Patio-y-Jardin/Asadores-y-Hieleras/Asadores/Nexgrill-Asador-de-Gas-de-3-Quemadores/p/1934082",
    "img": "https://www.costco.com.mx/medias/sys_master/products/hbf/h0d/414734148108318.jpg",
    "category": "Patio y Jardin",
+   "price_old": 6999.0,
+   "price_new": 5499.0,
+   "pct": 21.4,
+   "amount": 1500.0,
+   "starts": "2026-07-06T06:00:00.000Z",
+   "ends": "2026-07-13T05:59:59.999Z",
+   "in_stock": true,
+   "first_seen": 1783607378.2607572
+  },
+  {
+   "id": "695385",
+   "name": "Samsung Galaxy Watch 8 Classic 46mm Negro",
+   "url": "https://www.costco.com.mx/Joyeria-y-Relojes/Relojes/Smart-Watch/Samsung-Galaxy-Watch-8-Classic-46mm-Negro/p/695385",
+   "img": "https://www.costco.com.mx/medias/sys_master/products/h28/hb7/368805602951198.jpg",
+   "category": "Joyeria y Relojes",
    "price_old": 6999.0,
    "price_new": 5499.0,
    "pct": 21.4,
